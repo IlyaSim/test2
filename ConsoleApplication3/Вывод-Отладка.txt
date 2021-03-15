@@ -1,0 +1,14 @@
+﻿"ConsoleApplication4.exe" (Win32). Загружено "C:\Users\User\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe". Символы загружены.
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x39d8 завершился с кодом 0 (0x0).
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"ConsoleApplication4.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+Поток 0x35ec завершился с кодом 0 (0x0).
+Поток 0x1600 завершился с кодом 0 (0x0).
+Программа "[10788] ConsoleApplication4.exe" завершилась с кодом 0 (0x0).
